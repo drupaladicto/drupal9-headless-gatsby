@@ -26,6 +26,20 @@ INSTRUCCIONES
   - Para asegurarte de que todo funcione, ejecutar:
       lando rebuild
 
+Módulos adicionales instalados:
+admin_toolbar
+admin_toolbar_links_access_filter
+admin_toolbar_search
+admin_toolbar_tools
+consumers
+jsonapi_extras
+react_webform_backend
+rest_api_access_token
+restui
+simple_oauth
+webform
+webform_rest
+
 CURSO DRUPAL 9 HEADLESS CON GATSBY Y LANDO
   Ver video https://bit.ly/3OGh3Vc
   
